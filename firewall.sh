@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 #Defina as portas que deseja proteger
 PORTAS="22;80"
