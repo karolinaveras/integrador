@@ -20,4 +20,4 @@ C:\zabbix\bin\zabbix_agentd.exe -i -c C:\zabbix\conf\zabbix_agentd.win.conf
 C:\Zabbix\bin\zabbix_agentd.exe -d -c C:\Zabbix\conf\zabbix_agentd.win.conf
 
 
-##Depois repita o passo 1
+##Depois repita o passo 2
