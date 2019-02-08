@@ -1,0 +1,23 @@
+#Baixe o agente no site oficial
+
+##Copie a pasta zabbix para o disco C:
+
+
+##Abra o CMD como administrador e execute o seguinte comando:
+
+C:\zabbix\bin\zabbix_agentd.exe -i -c C:\zabbix\conf\zabbix_agentd.win.conf
+
+
+##Abra os serviços como administrador
+
+##inicie o serviço "zabbix-agent"
+
+###Obs: Todos esses comandos devem ser executados como administrador
+
+##Caso ja tenha um zabbix instalado execute o seguinte comando para desinstalar:
+
+
+C:\Zabbix\bin\zabbix_agentd.exe -d -c C:\Zabbix\conf\zabbix_agentd.win.conf
+
+
+##Depois repita o passo 1
